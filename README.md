@@ -21,7 +21,6 @@ You can also contribute by creating a local environment or opening a Codespace. 
 
 For more complex contributions, please [open an issue in the docs-content repo](https://github.com/github/docs-content/issues/new/choose) describing the changes you'd like to see.
 
-If you're looking for a way to contribute, you can scan through our [help wanted board](https://github.com/github/docs/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) to find open issues already approved for work.
 
 ### And that's it!
 
@@ -40,7 +39,7 @@ In addition to the README you're reading right now, this repo includes other REA
 - [data/README.md](data/README.md)
 - [data/reusables/README.md](data/reusables/README.md)
 - [data/variables/README.md](data/variables/README.md)
-- [src/README.md](src/README.md)
+- [src/README.md](src/README.md) 
 
 ## License
 
